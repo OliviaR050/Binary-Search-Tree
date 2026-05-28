@@ -1,1 +1,2 @@
 # Binary-Search-Tree
+I was tasked with creating a binary serach tree in C++. I started by creating nodes, iterators, and operations. I found the deletion and insertion methods to be the most difficult because of the multiple cases. I tested my code by creating a seperate testing document where I ran GDB and set break points before errors. I found my deletion code wasn't addressing deleting multiple children correctly and used Stack Overflow to find the solution. 
